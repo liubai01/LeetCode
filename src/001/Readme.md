@@ -4,6 +4,17 @@
 
 [Problem link](https://leetcode.com/problems/two-sum/)
 
+### Solution description
+
+The trickiest part that the problem guarantees that there is only one solution for this problem. 
+
+The solution is: traverse the list and add each integer into a hash map at the same time.
+
+- Check if current number `target` - `a` in hash map. 
+  - If it is, then it means `a` plus some number we have visited equals to `target`. 
+  - If it is not, add current number into hash map. 
+    - It must be visited in the future if some integer plus it equals to `target`.
+
 ### File structure
 
  - `sol.cpp`: baseline solution
