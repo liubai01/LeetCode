@@ -1,8 +1,8 @@
-## LeetCode [qid]: [qname]
+## LeetCode 005: Longest Palindromic Substring
 
 ### Problem
 
-[Problem link]()
+[Problem link](https://leetcode.com/problems/longest-palindromic-substring/)
 
 ### Solution description
 
