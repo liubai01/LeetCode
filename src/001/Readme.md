@@ -6,7 +6,7 @@
 
 ### Solution description
 
-The trickiest part that the problem guarantees that there is only one solution for this problem. 
+The trickiest part is that the problem guarantees that there is only one solution for this problem. 
 
 The solution is: traverse the list and add each integer into a hash map at the same time.
 
@@ -25,7 +25,7 @@ The solution is: traverse the list and add each integer into a hash map at the s
 
 ```powershell
 # On Windos(GCC) 5.3.0)
-g++ test01.cpp -o test01.exe -std=c++0x
+g++ .\testcases\test01.cpp -o test01.exe -std=c++0x
 ```
 
 Modify `../sol_hash.cpp` to `../sol.cpp`  in `test01.cpp` to apply testcases on different solutions.
