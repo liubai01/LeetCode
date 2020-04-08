@@ -14,7 +14,7 @@ The repository is to record my weekly training at LeetCode with cpp.
 
 | Question                                                     | Link of this repo.                                           | Solution description                                         | Date       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
-| cn-面试题13: [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/submissions/) | [cpp](https://github.com/liubai01/LeetCode/tree/master/src/cn-daily13/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/cn-daily13/) | 2020/04/07 |
+| cn-面试题13: [机器人的运动范围](https://leetcode-cn.com/problems/ji-qi-ren-de-yun-dong-fan-wei-lcof/submissions/) | [cpp](https://github.com/liubai01/LeetCode/tree/master/src/cn-daily13/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/cn-daily13/) | 2020/04/08 |
 |                                                              |                                                              |                                                              |            |
 |                                                              |                                                              |                                                              |            |
 
