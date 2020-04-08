@@ -19,7 +19,7 @@ bool isPalindrome(string s){
 class Solution {
 public:
     string longestPalindrome(string s) {
-        // baseline brute force method
+        // baseline brute force method O(n^3)
         int str_len = s.length();
         int max_len = 1;
         int max_start_idx = 0;

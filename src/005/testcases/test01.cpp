@@ -4,13 +4,14 @@
 #include <iostream>
 #include <string>
 
-#include "../sol.cpp"
+#include "../sol_dp.cpp"
 
 using namespace std;
 
 int main (int argc, char* []) 
 {
-	string s = "cbbd";
+	// string s = "aabbcdaaabbbcccbbbaaaacvbbbvcaaqwertyuiopoiuytrewqbcdaaabbaaabbaaaacccaa";
+	string s = "";
 	Solution sol = Solution();
 
 	cout << sol.longestPalindrome(s) << endl;
