@@ -7,7 +7,7 @@
 
 #include "../sol.cpp"
 
-int main (int argc, char* []) 
+int main () 
 {
     Solution sol = Solution();
     cout << sol.reverseWords("a bb cc d")  << endl;
