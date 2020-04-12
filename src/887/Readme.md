@@ -11,10 +11,13 @@ This problem is quite a challenging problem. It sources from a google interview 
 #### Baseline: Dynamic programming
 
 The sub-optimal structure is(dp(n, k) denotes optimal solution):
+
 $$
 Dp(n, k) = 1 + \min_i \max\{ Dp(i - 1, k - 1), Dp(n - i, k)\}
 $$
+
 While the boundary case is trivial:
+
 $$
 Dp(n, 1) = n
 $$
