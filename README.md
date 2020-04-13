@@ -11,6 +11,7 @@ Some link may point to china station. However, the index of problem in this tabl
 | 001: [Two sum](https://leetcode.com/problems/two-sum/submissions/) | [cpp](https://github.com/liubai01/LeetCode/tree/master/src/001/sol_hash.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/001#solution-description) | 2020/04/07 |
 | 005: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/005/sol_dp.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/005) | 2020/04/08 |
 | 115: [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/115/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/115) | 2020/04/10 |
+| 335: [Design Twitter](https://leetcode-cn.com/problems/design-twitter/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/335/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/335) | 2020/04/13 |
 | 887: [Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/887/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/887) | 2020/04/11 |
 
 ## LeetCode (China station) List
@@ -24,4 +25,5 @@ Some tasks are only available at China stations. 这里有一些题目是和上�
 | cn-面试题15: [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/115/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/115) | 2020/04/10 |
 | cn-面试题16: [鸡蛋掉落](https://leetcode-cn.com/problems/super-egg-drop/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/887/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/887) | 2020/04/11 |
 | cn-面试题 16.03: [交点](https://leetcode-cn.com/problems/intersection-lcci/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/cn-daily16/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/cn-daily16) | 2020/04/12 |
+| 每日挑战：[设计推特](https://leetcode-cn.com/problems/design-twitter/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/335/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/335) |   2020/04/13         |
 
