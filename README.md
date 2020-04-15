@@ -13,6 +13,7 @@ Some link may point to china station. However, the indices(of question) in this 
 | 115: [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/115/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/115) | 2020/04/10 |
 | 335: [Design Twitter](https://leetcode-cn.com/problems/design-twitter/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/335/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/335) | 2020/04/13 |
 | 445: [Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/445/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/445) | 2020/04/14 |
+| 542: [01 Matrix](https://leetcode-cn.com/problems/01-matrix/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/542/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/542) | 2020/04/15 |
 | 887: [Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/887/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/887) | 2020/04/11 |
 
 ## LeetCode (China station) List
@@ -28,6 +29,7 @@ Some tasks are only available at China stations. 这里有一些题目是和上�
 | 每日挑战20200412: [交点](https://leetcode-cn.com/problems/intersection-lcci/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/cn-daily16/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/cn-daily16) | 2020/04/12 |
 | 每日挑战20200413: [设计推特](https://leetcode-cn.com/problems/design-twitter/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/335/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/335) |   2020/04/13         |
 | 每日挑战20200414: [两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/445/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/445) | 2020/04/14 |
+| 每日挑战20200415: [01矩阵](https://leetcode-cn.com/problems/01-matrix/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/542/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/542) | 2020/04/15 |
 
 
 
