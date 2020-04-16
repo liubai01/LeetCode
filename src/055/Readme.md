@@ -8,6 +8,8 @@
 
 A standard `dp` problem, whether current possible is accessible is decided by whether one of previous accessible-to-this-pos regions is reachable. Memorize it and solve it recursively.
 
+**Update**: OMG, this is an extremely easy greedy problem, I mess it up by dynamic programming.
+
 **Heuristics:**
 
 ```cpp
