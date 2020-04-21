@@ -21,6 +21,7 @@ Some links may point to China station. However, the indices(of question) in this
 | 445: [Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/445/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/445) | 2020/04/14 |
 | 542: [01 Matrix](https://leetcode-cn.com/problems/01-matrix/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/542/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/542) | 2020/04/15 |
 | 887: [Super Egg Drop](https://leetcode-cn.com/problems/super-egg-drop/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/887/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/887) | 2020/04/11 |
+| 1248: [Count Number of Nice Subarrays](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/1248/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/1248) | 2020/04/21 |
 
 ## LeetCode (China station) List
 
@@ -38,8 +39,9 @@ Some tasks are only available at China stations. 这里有一些题目是和上�
 | 每日挑战20200415: [01矩阵](https://leetcode-cn.com/problems/01-matrix/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/542/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/542) | 2020/04/15 |
 | 每日挑战20200416: [合并区间](https://leetcode-cn.com/problems/merge-intervals/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/056/sol_dp.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/056) | 2020/04/16 |
 | 每日挑战20200417: [跳跃游戏](https://leetcode-cn.com/problems/jump-game/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/055/sol_dp.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/055) | 2020/04/17 |
-| 每日挑战20200418:[盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/011/sol_greed.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/011) | 2020/04/18 |
-| 每日挑战20200420:[岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/200/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/200) | 2020/04/20 |
+| 每日挑战20200418: [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/011/sol_greed.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/011) | 2020/04/18 |
+| 每日挑战20200420: [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/200/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/200) | 2020/04/20 |
+| 每日挑战20200421: [统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/1248/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/1248) | 2020/04/21 |
 
 
 
