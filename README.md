@@ -16,6 +16,7 @@ Some links may point to China station. However, the indices(of question) in this
 | 055: [Jump Game](https://leetcode-cn.com/problems/jump-game/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/055/sol_dp.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/055) | 2020/04/17 |
 | 056: [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/056/sol_dp.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/056) | 2020/04/16 |
 | 115: [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/115/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/115) | 2020/04/10 |
+| 199: [Binary Tree Right Side View](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/199/.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/199) | 2020/04/22 |
 | 200: [Number of Islands](https://leetcode-cn.com/problems/number-of-islands/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/200/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/200) | 2020/04/20 |
 | 355: [Design Twitter](https://leetcode-cn.com/problems/design-twitter/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/355/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/355) | 2020/04/13 |
 | 445: [Add Two Numbers II](https://leetcode-cn.com/problems/add-two-numbers-ii/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/445/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/445) | 2020/04/14 |
@@ -42,6 +43,7 @@ Some tasks are only available at China stations. 这里有一些题目是和上�
 | 每日挑战20200418: [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/011/sol_greed.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/011) | 2020/04/18 |
 | 每日挑战20200420: [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/200/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/200) | 2020/04/20 |
 | 每日挑战20200421: [统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/1248/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/1248) | 2020/04/21 |
+| 每日挑战20200422: [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/199/.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/199) | 2020/04/22 |
 
 
 
