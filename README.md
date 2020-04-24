@@ -44,6 +44,7 @@ Some tasks are only available at China stations. 这里有一些题目是和上�
 | 每日挑战20200420: [岛屿数量](https://leetcode-cn.com/problems/number-of-islands/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/200/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/200) | 2020/04/20 |
 | 每日挑战20200421: [统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/1248/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/1248) | 2020/04/21 |
 | 每日挑战20200422: [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/199/.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/199) | 2020/04/22 |
+| 每日挑战20200424: [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/cn-daily24/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/blob/master/src/cn-daily24/) | 2020/04/24 |
 
 
 
