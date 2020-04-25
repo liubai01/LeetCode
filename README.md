@@ -13,6 +13,7 @@ Some links may point to China station. However, the indices(of question) in this
 | 005: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/005/sol_dp.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/005) | 2020/04/08 |
 | 011: [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/011/sol_greed.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/011) | 2020/04/18 |
 | 042: [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/042/sol_dp.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/042) | 2020/04/18 |
+| 046: [Permutation](https://leetcode-cn.com/problems/permutations/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/046/sol.cpp) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/046/) | 2020/04/25 |
 | 055: [Jump Game](https://leetcode-cn.com/problems/jump-game/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/055/sol_dp.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/055) | 2020/04/17 |
 | 056: [Merge Intervals](https://leetcode-cn.com/problems/merge-intervals/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/056/sol_dp.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/056) | 2020/04/16 |
 | 115: [Reverse Words in a String](https://leetcode-cn.com/problems/reverse-words-in-a-string/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/115/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/115) | 2020/04/10 |
@@ -45,6 +46,7 @@ Some tasks are only available at China stations. 这里有一些题目是和上�
 | 每日挑战20200421: [统计「优美子数组」](https://leetcode-cn.com/problems/count-number-of-nice-subarrays/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/1248/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/1248) | 2020/04/21 |
 | 每日挑战20200422: [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/199/.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/199) | 2020/04/22 |
 | 每日挑战20200424: [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/cn-daily24/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/blob/master/src/cn-daily24/) | 2020/04/24 |
+| 每日挑战20200425: [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/046/sol.cpp) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/046/) | 2020/04/25 |
 
 
 
