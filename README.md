@@ -13,6 +13,7 @@ Some links may point to China station. However, the indices(of question) in this
 | 005: [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/005/sol_dp.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/005) | 2020/04/08 |
 | 011: [Container With Most Water](https://leetcode-cn.com/problems/container-with-most-water/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/011/sol_greed.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/011) | 2020/04/18 |
 | 023: [Merge k Sorted Lists](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/023/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/023) | 2020/04/26 |
+| 033: [Search in Rotated Sorted Array](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/033/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/033) | 2020/04/27 |
 | 042: [Trapping Rain Water](https://leetcode-cn.com/problems/trapping-rain-water/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/042/sol_dp.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/042) | 2020/04/18 |
 | 046: [Permutation](https://leetcode-cn.com/problems/permutations/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/046/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/blob/master/src/046/) | 2020/04/25 |
 | 055: [Jump Game](https://leetcode-cn.com/problems/jump-game/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/055/sol_dp.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/055) | 2020/04/17 |
@@ -49,6 +50,5 @@ Some tasks are only available at China stations. 这里有一些题目是和上�
 | 每日挑战20200424: [数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/cn-daily24/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/blob/master/src/cn-daily24/) | 2020/04/24 |
 | 每日挑战20200425: [全排列](https://leetcode-cn.com/problems/permutations/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/046/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/blob/master/src/046/) | 2020/04/25 |
 | 每日挑战20200426: [合并k个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/023/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/023) | 2020/04/26 |
-
-
+| 每日挑战20200427: [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/) | [cpp](https://github.com/liubai01/LeetCode/blob/master/src/033/sol.cpp) | [Link](https://github.com/liubai01/LeetCode/tree/master/src/033) | 2020/04/27 |
 
